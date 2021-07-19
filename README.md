@@ -1,6 +1,6 @@
 ## What is this example
 
-It is a small / simple example, I demonstrate a simple and optimized logic for assembling an insertion string using the passing of an object.  
+It is a small / simple example, to demonstrate a simple and optimized logic for assembling an insertion string using the passing of an object.  
 
 In this example, I divide the amount of elements inside the list, if the division is not exact, I round it up, use skip and take to cut the array.  
 
