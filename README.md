@@ -1,17 +1,71 @@
-## What is this example
+# Photography overview <!-- omit in toc -->
 
-It is a small / simple example, to demonstrate a simple and optimized logic for assembling an insertion string using the passing of an object.  
+## Contents <!-- omit in toc -->
 
-In this example, I divide the amount of elements inside the list, if the division is not exact, I round it up, use skip and take to cut the array.  
+- [1. Introduction](#1-introduction)
+- [2. DSLR vs Mirrorless](#2-dslr-vs-mirrorless)
+- [3. Exposure](#3-exposure)
+- [4. Aperture](#4-aperture)
+- [5. Canon SL3 parts](#5-canon-sl3-parts)
+  - [5.1. Lenses attach](#51-lenses-attach)
+- [6. Lens parts](#6-lens-parts)
 
-That way, I don't need to worry about index  
+# 1. Introduction
 
-The result of this code is: 
+Core Photography is about capturing light.
 
-`INSERT INTO [Book] (Name, Author, Isbn, ReleaseDate) VALUES ('Capitaes da areia', 'Jorge Amado', '8535914064', '18/07/2021 22:47:18'),('Dona flor e seus dois maridos', 'Jorge Amado', '8535911707', '18/07/2021 22:47:18')`  
-`INSERT INTO [Book] (Name, Author, Isbn, ReleaseDate) VALUES ('Tieta do agreste', 'Jorge Amado', '8535914048', '18/07/2021 22:47:18'),('Gabriela, Cravo e Canela', 'Jorge Amado', '8535920986', '18/07/2021 22:47:18')`  
-`INSERT INTO [Book] (Name, Author, Isbn, ReleaseDate) VALUES ('Mar morto', 'Jorge Amado', '8535911820', '18/07/2021 22:47:18')`  
+# 2. DSLR vs Mirrorless
 
-## Project Type Console
+# 3. Exposure
 
-.NET 5.0
+- **Definition**
+  - How bright or dark your image is.
+- A photo that is too dark is **underexposed**.
+- A photo that is too dark is **overexposed**.
+- A photo where your subject **is not too dark** and **not too bright** but it looks **natural** is properly exposed.
+- The important thing to remember with proper **exposure**, is that it's partly up to you as the **artist**, you may want your photo to be a little dark or to be a little bright, that can create some interesting and creative shots.
+
+# 4. Aperture
+
+- **Definition**
+  - How bright or dark your image is.
+
+# 5. Canon SL3 parts
+
+- Shutter button
+  - Halfway button depression = Focus / Recomposing
+  - Full depression = Take photo
+- Primary Selector
+- ISO Button
+- Disp Button
+- Power switch
+- Mode dial = Shooting modes
+- Flash
+- Menu button
+- Info button
+- Diopter Adjuster
+- Viewfinder
+- Live view / video record button
+- Exposure compensation button
+- Directional pad
+- Set / Quick menu button
+- Playback button
+- Delete button
+- Focus cluster selector
+- Auto exposure lock / Flash exposure lock button
+- Lens release
+- Battery port
+- SD card slot
+- Hotshoe mount
+
+## 5.1. Lenses attach
+
+- RED -> EF-Mount
+  - Full-frame center
+- WHITE > EFS-Mount
+  - Crop sensor
+
+# 6. Lens parts
+
+- Auto focus switch
+- Image stabilisation
