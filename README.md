@@ -6,12 +6,15 @@
 - [2. DSLR vs Mirrorless](#2-dslr-vs-mirrorless)
 - [3. Exposure](#3-exposure)
 - [4. Aperture](#4-aperture)
-- [5. Camera scene modes](#5-camera-scene-modes)
-- [6. File types](#6-file-types)
-- [7. Camera anatomy](#7-camera-anatomy)
-  - [7.1. Canon SL3 parts](#71-canon-sl3-parts)
-  - [7.2. Lenses attach](#72-lenses-attach)
-- [8. Lens parts](#8-lens-parts)
+  - [4.1. Depth of field](#41-depth-of-field)
+- [5. Shutter speed](#5-shutter-speed)
+- [6. ISO](#6-iso)
+- [7. Camera scene modes](#7-camera-scene-modes)
+- [8. File types](#8-file-types)
+- [9. Camera anatomy](#9-camera-anatomy)
+  - [9.1. Canon SL3 parts](#91-canon-sl3-parts)
+  - [9.2. Lenses attach](#92-lenses-attach)
+- [10. Lens parts](#10-lens-parts)
 
 # 1. Introduction
 
@@ -31,41 +34,67 @@ Core Photography is about capturing light.
 # 4. Aperture
 
 - **Definition**
-  - How bright or dark your image is.
+  - Aperture (Iris): The hole inside the camera lens that lets in light.
+- **Increasing** the size of the aperture makes your image **brighter**.
+- **Decreasing** the size of the aperture makes your image **darker**.
+- The F-STOP or F-NUMBER is a scale that represents the size of the aperture.
+  ![F-STOP Scale](/Images/ApertureFStopScale.png)
+- Not all lenses can adjust to all apertures.
 
-# 5. Camera scene modes
+## 4.1. Depth of field
+
+- How much is in focus in your photo.
+
+# 5. Shutter speed
+
+- **Definition**
+  - Shutter speed or exposure time is the length of time that the film or digital sensor inside the camera is exposed to light.
+- A camera only needs to capture a fraction of a **second** in bright light.
+  - 1/30s
+  - 1/60s
+  - 1/125s
+  - ...
+
+# 6. ISO
+
+# 7. Camera scene modes
 
 - Automatically adjusts based on specific type of photography.
   - **Portrait mode**
-    - Selects a lower f-stop/aperture to get a blurred background.
+    - Selects a lower F-STOP/aperture to get a blurred background.
   - **Macro mode**
     - Selects a mid-range aperture and meters for the entire frame.
   - **Landscape mode**
-    - Select a higher f-stop/aperture and meter for the entire frame.
+    - Select a higher F-STOP/aperture and meter for the entire frame.
   - **Sports mode**
     - Selects a higher shutter speed to freeze motion.
   - **Fireworks mode**
     - Selects a shutter speed that beautifully captures light streaks.
   - **Beach & snow mode**
-    - Selects a fast shutter speed, high f-stop/aperture and low ISO.
+    - Selects a fast shutter speed, high F-STOP/aperture and low ISO.
   - **Night mode**
-    - Selects a high ISO, low f-stop/aperture and low shutter speed.
+    - Selects a high ISO, low F-STOP/aperture and low shutter speed.
   - Panoramic mode
     - Takes multiple photos and stitches them together to create a panorama.
 - **Every camera has different scene modes.**
 
-# 6. File types
+# 8. File types
 
 - Most cameras have two file types: `JPEG` and `RAW`.
 - **RAW images**
   - Uncompressed, full quality images (large file size).
   - Some cameras allow you to adjust the resolution of the original photos you are capturing.
+  - When shooting in raw, plan to edit your photos.
+  - Make sure you have enough memory card space when shooting in raw.
 - **JPEG images**
   - A universal file type that is compressed (smaller size).
+- **Which file format should you use?**
+  - It is recommended to always shoot in raw if possible.
+  - You can usually capture both `RAW` and `JPEG` images at the same time.
 
-# 7. Camera anatomy
+# 9. Camera anatomy
 
-## 7.1. Canon SL3 parts
+## 9.1. Canon SL3 parts
 
 - Shutter release button
   - Halfway button depression = Focus / Recomposing
@@ -95,14 +124,14 @@ Core Photography is about capturing light.
 - Tripod mount
 - Strap holders
 
-## 7.2. Lenses attach
+## 9.2. Lenses attach
 
 - RED -> EF-Mount
   - Full-frame center
 - WHITE > EFS-Mount
   - Crop sensor
 
-# 8. Lens parts
+# 10. Lens parts
 
 - Auto focus switch
 - Image stabilisation
